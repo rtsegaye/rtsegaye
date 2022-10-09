@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning AWS and Azure Sentinal to help me solidify my security knowledge 
 - 💞️ I’m looking for security related internships and reasearch opportunities
 - 📫 How to reach me - rtsegaye@terpmail.umd.edu
-- 👩🏽‍💻💄 I am also very interested in the beauty industry. I have been working in the bussiness for a little bit over 3 years now
+- 👩🏽‍💻💄 I am also very interested in the beauty industry and photography. I have been working in the bussiness for a little bit over 3 years now
