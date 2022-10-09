@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Redie Tsegaye. First generation Ethiopian-American CyberSecurity student at University of Maryland
+- 👋 Hi, I’m Rediet(ready-yet) Tsegaye. First generation Ethiopian-American CyberSecurity student at University of Maryland
 - 👀 I’m interested in network security, cloud security, researching, and counsulting my fellow students to break into tech
 - 🌱 I’m currently learning AWS and Azure Sentinal to help me solidify my security knowledge 
 - 💞️ I’m looking for security related internships and reasearch opportunities
