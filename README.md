@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rediet(ready-yet) Tsegaye. First generation Ethiopian-American Computer Science student at University of Maryland
-- 👀 I’m interested in Software Engineering, Cybersecurity, Technical Program Manegment, and Counsulting 
-- 🌱 I’m currently working in a security lab to help me solidify my security knowledge
-- 💞️ I’m looking for TPM, Cyber, and/or SWE related internships and reasearch opportunities
+- 👀 I’m interested in Software Engineering, Cybersecurity, and Technical Program Manegment
+- 🌱 I’m an incoming Software Engineering intern @ Atlassian workin on TRELLO!
 - 📫 How to reach me - rtsegaye@terpmail.umd.edu
-- 👩🏽‍💻💄 I am also very interested in the beauty industry and photography. I have been working in the bussiness for over 3 years now
+
